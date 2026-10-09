@@ -1,16 +1,17 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f62fe,50:0043ce,100:001d6c&height=200&section=header&text=Swwapnil%20Kambley&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20DevOps%20%26%20Cloud%20Engineer%20%7C%20AI%20Agent%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f62fe,50:0043ce,100:001d6c&height=200&section=header&text=Swwapnil%20Kambley&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Senior%20DevOps%20Engineer%20%7C%20GCP%20%C2%B7%20Kubernetes%20%C2%B7%20Terraform%20%7C%20AI%20Infrastructure&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=0F62FE&center=true&vCenter=true&width=750&lines=6%2B+Years+in+DevOps+%26+Cloud+Engineering;GCP+%7C+AWS+%7C+Kubernetes+%7C+Terraform;GitOps+with+ArgoCD+%26+Helm;Building+AI+Agents+for+DevOps+Automation;Globant+%7C+Persistent+Systems+%7C+MediaAgility)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=0F62FE&center=true&vCenter=true&width=750&lines=7%2B+Years+in+DevOps+%26+Cloud+Engineering;GCP+%7C+AWS+%7C+Kubernetes+%7C+Terraform;CKA+%7C+GCP+Professional+Cloud+Architect;GitOps+with+ArgoCD+%26+Helm;Building+an+AI+Serving+Platform+on+GKE)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SwwapnilKambley&color=0f62fe&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-swwapnil--kambley-0f62fe?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swwapnil-kambley)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-0f62fe?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swwapnilkambley24@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-@swwapnil303-0f62fe?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@swwapnil303)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-0f62fe?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swwapnil303@gmail.com)
 
 </div>
 
@@ -21,8 +22,8 @@
 ```yaml
 name:         Swwapnil Kambley
 location:     Pune, India 🇮🇳
-role:         Senior DevOps / Cloud Engineer
-experience:   6+ Years
+role:         Senior DevOps Engineer
+experience:   7+ Years
 
 current:
   company:    Globant
@@ -30,19 +31,19 @@ current:
   since:      Feb 2024
 
 primary_cloud:    GCP — Google Cloud Platform
-secondary_cloud:  AWS (2+ Years hands-on)
+secondary_cloud:  AWS
 
 core_expertise:
-  - Kubernetes, Helm, ArgoCD (GitOps)
-  - Infrastructure as Code — Terraform
-  - CI/CD — Jenkins, GitLab CI, CircleCI, GCP Cloud Build, AWS CodePipeline
-  - Observability — Prometheus, Grafana, Google Cloud Monitoring
-  - Microservices on GKE, EKS, EC2
+  - Kubernetes (CKA), GKE, Helm, ArgoCD (GitOps)
+  - Infrastructure as Code — Terraform (HashiCorp Certified)
+  - CI/CD — GitLab CI, CircleCI, Jenkins, Bitbucket Pipelines
+  - Observability — Prometheus, Grafana, Google Cloud Trace
+  - GCP networking — Shared VPC, landing zones, cross-project connectivity
+  - Data on GCP — Airflow, BigQuery
 
-currently_building:
-  - 🤖 AI-powered observability & DevOps agents
-  - 🎯 Preparing for CKA (Certified Kubernetes Administrator)
-  - 📚 LangChain + LLM automation workflows
+currently:
+  - 🛡️ Preparing for CKS (Certified Kubernetes Security Specialist)
+  - 🧠 Building an AI serving platform on GKE, in public (see below)
 ```
 
 ---
@@ -55,23 +56,23 @@ currently_building:
 <td>
 <b>🔵 Senior DevOps Engineer — Globant</b><br/>
 <i>Full-time · Pune, India (Hybrid)</i><br/>
-Leading cloud infrastructure, platform engineering, and DevOps automation. Driving GCP-first architecture with GitOps practices using ArgoCD and Helm on GKE.
+GitLab CI/CD to GKE with Helm and ArgoCD (GitOps). Reusable Terraform modules for GKE and networking. Built an AI-driven observability agent with Google's Agent Development Kit (ADK), an Airflow → BigQuery data pipeline, and a Prometheus + Grafana stack with Cloud Trace.
 </td>
 </tr>
 <tr>
-<td width="90" align="center"><b>Jul 2021<br/>Feb 2024</b></td>
+<td width="90" align="center"><b>May 2022<br/>Feb 2024</b></td>
 <td>
-<b>🟢 Senior Software Engineer (DevOps) — Persistent Systems</b><br/>
-<i>Full-time · Pune, India (Hybrid) · 2 yrs 8 mos</i><br/>
-Architected and managed GKE-based microservices infrastructure on GCP. Implemented full GitOps pipelines with ArgoCD, Kubernetes, Helm, and Terraform IaC. Promoted within MediaAgility (acquired by Persistent).
+<b>🟢 Senior Software Engineer — Persistent Systems</b><br/>
+<i>Full-time · Pune, India (Hybrid) · formerly MediaAgility, acquired 2022</i><br/>
+Owned the CI/CD pipeline to GKE and extended it into a full IaC workflow. Designed Terraform pipelines and reusable modules for GCP, automated landing-zone setup with Python, and implemented Shared VPC across multiple projects.
 </td>
 </tr>
 <tr>
-<td width="90" align="center"><b>Jul 2021<br/>Sep 2022</b></td>
+<td width="90" align="center"><b>Jul 2021<br/>May 2022</b></td>
 <td>
-<b>🟡 Software Engineer DevOps → Senior SWE — MediaAgility</b><br/>
-<i>Part of Persistent Systems · Pune, India · 1 yr 3 mos</i><br/>
-Built CI/CD pipelines on CircleCI targeting GKE. Deployed and managed microservices on GCP. Introduced ArgoCD for GitOps-driven deployments across environments.
+<b>🟡 Software Engineer, DevOps — MediaAgility</b><br/>
+<i>Full-time · Pune, India</i><br/>
+Built CircleCI pipelines deploying to GKE and introduced ArgoCD for continuous delivery of microservices.
 </td>
 </tr>
 <tr>
@@ -79,7 +80,7 @@ Built CI/CD pipelines on CircleCI targeting GKE. Deployed and managed microservi
 <td>
 <b>🟠 Associate DevOps Engineer — Xento Systems</b><br/>
 <i>Full-time · Pune, India · 9 mos</i><br/>
-Built automated Jenkins CI/CD pipelines with PHP & SSH plugins. Created custom Docker images for Composer deployments. Set up Bitbucket webhook integrations, migrated repositories from Git/SVN, and delivered AWS CodeDeploy pipeline to EC2.
+Automated Jenkins CD pipelines, containerized Composer apps for AWS Elastic Beanstalk, built Bitbucket Pipelines → CodeDeploy to EC2, and provisioned AWS and GCP infrastructure with Terraform.
 </td>
 </tr>
 <tr>
@@ -87,7 +88,7 @@ Built automated Jenkins CI/CD pipelines with PHP & SSH plugins. Created custom D
 <td>
 <b>🔴 AWS Associate — Centurysoft Private Limited</b><br/>
 <i>Full-time · Pune, India · 1 yr 3 mos</i><br/>
-Migrated 30+ websites to AWS EC2. Built CI/CD pipelines from GitHub/Bitbucket. ETL workflows using AWS Glue, Athena & Lambda. Integrated QuickSight with S3, configured Route 53 DNS, and automated resource provisioning with Lambda.
+Migrated 30+ websites to AWS EC2. Built CI/CD pipelines from GitHub and Bitbucket. ETL with AWS Glue and Athena, QuickSight reporting on S3, Route 53 DNS, and automation with Lambda.
 </td>
 </tr>
 </table>
@@ -98,15 +99,24 @@ Migrated 30+ websites to AWS EC2. Built CI/CD pipelines from GitHub/Bitbucket. E
 
 | Certification | Issuer | Status |
 |:---|:---|:---:|
-| 🔧 **HashiCorp Terraform Associate (003)** | HashiCorp | ✅ Active · 2025–2027 |
-| ☁️ **Professional Cloud DevOps Engineer** | Google Cloud | ✅ Certified |
-| 🏗️ **Professional Cloud Architect** | Google Cloud | ✅ Certified |
-| 🌐 **Cloud Digital Leader** | Google Cloud | ✅ Certified |
-| 🎓 **Associate Cloud Engineer** | Google Cloud | ✅ Certified |
-| ☸️ **Kubernetes in Google Cloud** | GCP Skills Boost | ✅ Completed |
-| 🔄 **Infrastructure & App Modernization with GCP** | GCP Skills Boost | ✅ Completed |
-| 🛠️ **AWS Certified Developer – Associate** | Amazon Web Services | ✅ Certified |
-| ⚙️ **Certified Kubernetes Administrator (CKA)** | CNCF | 🔄 In Progress |
+| ☸️ **[Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/b701b928-ccf9-4c8c-897e-55e55fa0153d)** | The Linux Foundation | ✅ Active · 2026–2028 |
+| 🏗️ **[Professional Cloud Architect](https://www.credly.com/badges/06e3405d-d8f0-4a76-8b6e-f85a733be8df)** | Google Cloud | ✅ Active · 2026–2028 |
+| 🎓 **[Associate Cloud Engineer](https://www.credly.com/badges/059a17f6-d3ab-4951-881f-2920f6caecea)** | Google Cloud | ✅ Active · 2025–2028 |
+| 🔧 **[HashiCorp Terraform Associate (003)](https://www.credly.com/badges/b83cb396-f793-4bb5-8458-bdae653ad545)** | HashiCorp | ✅ Active · 2025–2027 |
+| 🛡️ **Certified Kubernetes Security Specialist (CKS)** | The Linux Foundation | 🔄 In progress |
+
+<details>
+<summary><b>Past certifications</b></summary>
+
+| Certification | Issuer | Held |
+|:---|:---|:---:|
+| ☁️ Professional Cloud DevOps Engineer | Google Cloud | 2023–2025 |
+| 🌐 Cloud Digital Leader | Google Cloud | 2022–2025 |
+| 🛠️ AWS Certified Developer – Associate | Amazon Web Services | 2019–2022 |
+| 🔄 Infrastructure & App Modernization with Google Cloud | Google Cloud Skills Boost | 2022 |
+| ☸️ Kubernetes in Google Cloud | Google Cloud Skills Boost | 2022 |
+
+</details>
 
 ---
 
@@ -124,48 +134,46 @@ Migrated 30+ websites to AWS EC2. Built CI/CD pipelines from GitHub/Bitbucket. E
 
 ### 🏗️ Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### 🔄 CI/CD
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Google Cloud Monitoring](https://img.shields.io/badge/Cloud_Monitoring-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud Trace](https://img.shields.io/badge/Cloud_Trace-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### 🤖 AI / Agents
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+### 🧠 Data & AI
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🔧 Scripting & Tools
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Building in Public: `ai-platform-gke`
 
-### 🤖 AI-Powered DevOps Agents
-| Project | Description | Stack |
-|:---|:---|:---|
-| [🔍 DevOps Observability Agent](https://github.com/SwwapnilKambley) | AI agent that reads Prometheus alerts and suggests remediation steps | Python, LangChain, Prometheus |
-| [💰 Infra Cost Agent](https://github.com/SwwapnilKambley) | Analyzes Terraform plans, flags cost anomalies before apply | Python, Terraform, Claude API |
-| [🩺 K8s Troubleshooting Agent](https://github.com/SwwapnilKambley) | Reads pod logs & events, auto-diagnoses cluster issues | Python, K8s API, LLM |
+One repo, built phase by phase: a GPU-backed, secured, observable AI serving platform on GKE. Each phase ships a tagged release with measured results and a Medium write-up.
 
-### ☁️ Cloud Infrastructure & GitOps
-| Project | Description | Stack |
-|:---|:---|:---|
-| [🏗️ GCP Infra with Terraform](https://github.com/SwwapnilKambley) | Production-grade GCP: GKE, VPC, Cloud SQL, IAM as code | Terraform, GCP |
-| [⚙️ GitOps with ArgoCD + Helm](https://github.com/SwwapnilKambley) | Full GitOps pipeline on GKE with Helm + ArgoCD | K8s, Helm, ArgoCD |
-| [📊 Monitoring Stack as Code](https://github.com/SwwapnilKambley) | Prometheus + Grafana dashboards deployed via Helm | Prometheus, Grafana, Helm |
+| Phase | What it adds | Release | Status |
+|:---|:---|:---:|:---:|
+| 0 · Security baseline | kube-bench before/after, NetworkPolicy, Pod Security | `v0.1` | 🔄 In progress |
+| 1 · Foundations | Runbook semantic search, GPU memory sizing calculator | `v0.2` | ⏳ Planned |
+| 2 · GPU infra | Terraform GKE + scale-to-zero GPU node pool, GCS FUSE weights | `v0.3` | ⏳ Planned |
+| 3 · Serving | KServe + vLLM endpoint, load-tested, cost per million tokens | `v1.0` | ⏳ Planned |
+| 4 · RAG | Infra knowledge agent with a 30-question eval set | `v1.1` | ⏳ Planned |
+| 5 · MLOps | MLflow + eval-gated GitOps deploys with canary rollout | `v1.2` | ⏳ Planned |
+| 6 · Security | Private cluster, Model Armor, prompt-injection test suite | `v1.3` | ⏳ Planned |
+| 7 · Observability | GPU, latency, RAG traces and security events in one dashboard | `v2.0` | ⏳ Planned |
 
-> 🔨 *Repos actively being built and published — watch this space!*
+<!-- Link the repo here once it is public: https://github.com/SwwapnilKambley/ai-platform-gke -->
 
 ---
 
@@ -184,13 +192,14 @@ Migrated 30+ websites to AWS EC2. Built CI/CD pipelines from GitHub/Bitbucket. E
 
 ---
 
-## 🌱 Currently Learning & Building
+## 🌱 Currently Learning
 
 ```
-☸️  CKA — Certified Kubernetes Administrator deep dive
-🤖  AI Agent frameworks — LangChain, LangGraph, CrewAI
-🔗  LLM integration with DevOps tooling (Prometheus, K8s, Terraform)
-💰  FinOps practices on GCP & AWS
+🛡️  CKS — cluster hardening, supply chain, runtime security
+🎮  GPU infrastructure on GKE — node pools, drivers, model weights
+🚀  Model serving — vLLM, KServe
+🔎  RAG and vector search
+🔁  MLOps — MLflow, Kubeflow, eval-gated deployments
 ```
 
 ---
